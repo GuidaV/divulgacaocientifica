@@ -16,7 +16,7 @@
 | A Química em Libras (BR)                 | Ciências Químicas                        | https://www.youtube.com/channel/UC_CODCUN-lcO1s2OzJ5mqBg     | Retirado de "Anel de Blogs Científicos" |
 | Arqueologia Alternativa                  | Arqueologia                              | https://www.youtube.com/channel/UC-G1NZcttwT8HT4Go6NVksg     |                                         |
 | Arqueologia Egípcia                      | Arqueologia                              | https://www.youtube.com/user/arqueologiaegipcia              | ScienceVlogsBr                          |
-| Arqueologia em Ação                      | Arqueologia                              | https://www.youtube.com/user/arqueologiaemacao               |                                         |
+| Arqueologia e Pré-História               | Arqueologia e Paleontologia              | https://www.youtube.com/channel/UChGHP-yeFGrS5Qw18LZjttA     |                                         |
 | Astronomia ao Meio-dia (BR)              | Ciências Físicas, Astronômicas e da Terra| https://www.youtube.com/user/astro12h                        | Retirado de "Anel de Blogs Científicos" |
 | Astronomia ao Vivo (BR)                  | Ciências Físicas, Astronômicas e da Terra| https://www.youtube.com/user/AstronomiaAoVivo/               | Retirado de "Anel de Blogs Científicos" |
 | Astronomia em Mãos (BR)                  | Ciências Físicas, Astronômicas e da Terra| https://www.youtube.com/channel/UCDf-1xd64NBdTxR5BvbAA3A     | Retirado de "Anel de Blogs Científicos" |
@@ -93,6 +93,7 @@
 | Diário de Biologia (BR)                  | Ambiente e Ciências da Vida              | https://www.youtube.com/channel/UCGw2tB5UC_Legq8ndcPk3uQ     | Retirado de "Anel de Blogs Científicos" |
 | Disperciência                            | Biologia                                 | https://www.youtube.com/channel/UCUgarxqakK33XeFA4nHG2HA     | ScienceVlogsBr                          |
 | Divagando                                |                                          | https://www.youtube.com/channel/UCzJloIBlK8SyXfA_Wa9dmig     |                                         |
+| DLC - Seu conteúdo expandido de ciência  | Ciência Geral                            |https://www.youtube.com/channel/UC2OgJG89mWO8TyV50lPD8DQ      |
 | Dois Minutos de Química (BR)             | Ciências Químicas                        | https://www.youtube.com/channel/UCZrjIFe2BQgQA1XUcW0N2cw     | Retirado de "Anel de Blogs Científicos" |
 | Drauzio Varella                          |                                          | https://www.youtube.com/user/drdrauziovarella                |                                         |
 | É Ciência! (BR)                          | Ciências Físicas, Astronômicas e da Terra| https://www.youtube.com/channel/UCCW7CjNruep9gk7qkwbbVqQ     | Retirado de "Anel de Blogs Científicos" |
