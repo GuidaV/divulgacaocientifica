@@ -47,6 +47,7 @@
 | APCA - Associação de Protecção e Conservação do Ambient (PT*)| Ambiente e Ciências da Vida | http://afifeambiente.blogs.sapo.pt/            | Retirado de "Anel de Blogs Científicos" | 
 | APGVN (PT*) - Associação Portuguesa de Guardas e Vigilantes da Natureza | Ambiente e Ciências da Vida | http://apgvn.blogspot.com.br/       | Retirado de "Anel de Blogs Científicos" | 
 | Aprendendo Química! (BR)        | Ciências Químicas                 | http://aprendendoquimicauesc.blogspot.com/                            | Retirado de "Anel de Blogs Científicos" |
+| Arqueologia e Pré-História (BR) | Arqueologia e Paleontologia       | https://arqueologiaeprehistoria.com/
 | Ars Physica (BR)                | Ciências Físicas e Astronômicas   | http://arsphysica.wordpress.com/                                      | Retirado de "Anel de Blogs Científicos" |
 | As histórias de Elphaba (PT*)   | Ciências Sociais e Humanidades    | http://www.historiasdeelphaba.com/                                    | Retirado de "Anel de Blogs Científicos" |
 | As Incríveis Aventuras das Supercordas (BR)| Ciências Físicas e Astronômicas   | http://lablogatorios.com.br/supercordas/                   | Retirado de "Anel de Blogs Científicos" |
